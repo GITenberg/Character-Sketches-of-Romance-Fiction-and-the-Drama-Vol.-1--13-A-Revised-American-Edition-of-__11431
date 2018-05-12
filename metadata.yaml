@@ -1,5 +1,8 @@
 _repo: Character-Sketches-of-Romance-Fiction-and-the-Drama-Vol.-1--13-A-Revised-American-Edition-of-__11431
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brewer, Ebenezer Cobham
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3978
     wikipedia: http://en.wikipedia.org/wiki/Ebenezer_Cobham_Brewer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11431#Character-Sketches-of-Romance-Fiction-and-the-Drama-Vol.-1--13-A-Revised-American-Edition-of-_
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
